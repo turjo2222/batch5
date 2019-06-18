@@ -1,0 +1,21 @@
+    1  git clone https://github.com/turjo2222/batch5.git
+    2  cd batch5/
+    3  git status
+    4  git status
+    5  cd batch5/
+    6  git status
+    7  git status
+    8  git add --all
+    9  git commit -m "add_ignorfile"
+   10  git config --global turjo2222@gmail.com
+   11  git config --global user.email "turjo2222@gmail.com"
+   12  git commit -m "add_ignorfile"
+   13  git status
+   14  git status
+   15  git add --all
+   16  git commit -m "add_ignorfile"
+   17  git push origin master 
+   18  git config --global user.name "turjo2222"
+   19  git push origin master 
+   20  history 
+   21  history >history.text
